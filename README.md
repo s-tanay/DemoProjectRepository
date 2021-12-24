@@ -1,4 +1,4 @@
-## DemoProjectRepository Collaborated by 
+## DemoProject
 
 Tools Used: SOAPUI Free Version, Groovy.
 project is scripted by using Groovy for automation of GET, POST, PUT, DELETE Request
